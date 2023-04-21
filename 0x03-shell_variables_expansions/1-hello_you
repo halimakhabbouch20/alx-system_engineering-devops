@@ -1,4 +1,2 @@
 #!/bin/bash
-hello() {
-    echo "Hello $1"
-}
+echo "hello $my_user"
