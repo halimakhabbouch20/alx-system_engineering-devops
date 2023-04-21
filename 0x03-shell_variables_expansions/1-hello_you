@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "hello ($user)"
+hello() {
+    echo "Hello $1"
+}
