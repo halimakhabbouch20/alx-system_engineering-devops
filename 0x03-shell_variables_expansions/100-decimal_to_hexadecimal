@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($decimal"\n" $hex "\n")) $DECIMAL
+echo $((10#16))"\n" $DECIMAL
