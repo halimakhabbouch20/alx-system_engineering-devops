@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((10#16))"\n" $DECIMAL
+echo $((10#FF))"\n" $DECIMAL
