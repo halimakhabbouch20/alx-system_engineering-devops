@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($decimal $hex "\n")) $DECIMAL
+echo $(($decimal"\n" $hex "\n")) $DECIMAL
