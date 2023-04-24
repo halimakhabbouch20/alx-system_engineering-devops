@@ -1,0 +1,2 @@
+#!/bin/bsh
+printf "%.2f \n" $NUM
